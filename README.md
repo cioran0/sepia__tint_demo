@@ -4,4 +4,4 @@ This is just to show a simple tint with hue-rotate on the color wheel from sepia
 
 And read this: https://www.quackit.com/css/functions/css_hue-rotate_function.cfm
 
-Watermarked screenshots of mars images off fdelhoume Mars tile image pyramid page.
+Screenshots of mars images off fdelhoume Mars tile image pyramid page.
